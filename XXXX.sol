@@ -1,6 +1,4 @@
 // SPDX-License-Identifier: onther
-import "./XXX.sol";
-
 pragma solidity ^0.8.20;
 
 contract onther2 {
